@@ -1,0 +1,33 @@
+.header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(255, 220, 156);
+    box-shadow: 0 5px 3px -1px #d3d3d3;
+    z-index: 1;
+    
+}
+
+.logout{
+    font-size: 12px;
+    margin-left: 10px;
+    float: left;
+    margin-top: 17px;
+
+}
+
+.main{
+    font-size: 20px;
+    margin-top: -15px;
+    margin-left: 80px;
+    float: left;
+    
+}
+.navigation {
+    float: right;
+    margin-right: 10px;
+    font-size:12px;
+    margin-top: 4.5px;
+}
